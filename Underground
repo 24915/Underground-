@@ -1,0 +1,2 @@
+--Made by Nitr0--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nitropitro/Underground-war/main/Underground"))();
